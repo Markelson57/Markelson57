@@ -34,8 +34,9 @@ Recuerda seguirme en YouTube (Markelson57), TikTok (@markelson), Instagram (@mar
 
 *Markelson*
 
+<div align="center">
 <h3>CONTACTO</h3>
-
+</div>
 <div align="center">
 <p align="center">
   <a href="https://github.com/Markelson57">
