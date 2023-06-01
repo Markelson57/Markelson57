@@ -44,7 +44,7 @@ Recuerda seguirme en YouTube (Markelson57), TikTok (@markelson), Instagram (@mar
 <h3>CONTACTO</h3>
  
  
-<a rel="Markelson57" href="https://github.com/Markelson57"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a> <a rel="Markelson" href="https://discord.gg/35CAmmz6C7"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
+<a rel="Markelson57" href="https://github.com/Markelson57"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a> <a rel="Markelson" href="https://discord.gg/35CAmmz6C7"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a><a rel="Markelson57" href="https://youtube.com/@Markelson57"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube"></a>
  
  
 <div align="center">
