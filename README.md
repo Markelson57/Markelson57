@@ -35,24 +35,10 @@ Recuerda seguirme en YouTube (Markelson57), TikTok (@markelson), Instagram (@mar
 *Markelson*
 
 <div align="center">
- 
-<a aling="left" rel="Markelson57" href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markelson57&layout=compact&exclude_repo=NPC_medico-FIVEM,Token-Grabber&theme=dark" alt="Top Langs"></a>
 
-
- 
 <a rel="Markelson57" href=""><img src="https://github-readme-stats.vercel.app/api?username=Markelson57&count_private=true&show_icons=true&theme=dark&disable_animations=false&hide_title=true" alt="GitHub Stats"></a>
  </div>
 
-<div align="center">
-<a href="https://discord.com/users/798937817869844541">
-<img src="https://lanyard-profile-readme.vercel.app/api/1094385939347943516?theme=dark&bg=292b2f&animated=true&borderRadius=27px">
- 
-</div>
-
- 
- 
- 
- 
 <div align="center">
 
 <h3>CONTACTO</h3>
