@@ -34,22 +34,18 @@ Recuerda seguirme en YouTube (Markelson57), TikTok (@markelson), Instagram (@mar
 
 *Markelson*
 
-<div align="center">
-
-<a rel="Markelson57" href=""><img src="https://github-readme-stats.vercel.app/api?username=Markelson57&count_private=true&show_icons=true&theme=dark&disable_animations=false&hide_title=true" alt="GitHub Stats"></a>
- </div>
-
-<div align="center">
-
 <h3>CONTACTO</h3>
- 
- 
-<a rel="Markelson57" href="https://github.com/Markelson57"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a> <a rel="Markelson" href="https://discord.gg/35CAmmz6C7"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a><a rel="Markelson57" href="https://youtube.com/@Markelson57"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube"></a>
- 
- 
+
 <div align="center">
- 
- 
- <h3>Trabajando</h3>
- <img align="center"src="https://skillicons.dev/icons?i=cs,html,discord,bots,dotnet,github,md,bash,php,linux,py,visualstudio,vscode"/>
+<p align="center">
+  <a href="https://github.com/Markelson57">
+    <img src="https://skillicons.dev/icons?i=git"/>
+      </a>
+    <a href="https://discord.gg/35CAmmz6C7">
+    <img src="https://skillicons.dev/icons?i=discord"/>
+      </a>
+    <a href="https://instagram.com/markelson_57">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</p>
 </div>
