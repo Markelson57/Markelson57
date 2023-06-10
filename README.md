@@ -42,7 +42,7 @@ Recuerda seguirme en YouTube (Markelson57), TikTok (@markelson), Instagram (@mar
   <a href="https://github.com/Markelson57">
     <img src="https://skillicons.dev/icons?i=git"/>
       </a>
-    <a href="https://discord.gg/35CAmmz6C7">
+    <a href="https://discord.gg/yGRQ6m2nZj">
     <img src="https://skillicons.dev/icons?i=discord"/>
       </a>
     <a href="https://instagram.com/markelson_57">
